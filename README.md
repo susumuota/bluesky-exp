@@ -10,6 +10,8 @@ export ATP_PASSWORD="password"
 ## Run
 
 ```sh
+git clone https://github.com/susumuota/bluesky-exp
+cd bluesky-exp
 node -v   # I have tested on v18.14.2
 npm ci
 npm run tl
